@@ -1,0 +1,27 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^12.12.8",
+    "@types/twilio": "0.0.10",
+    "nodemon": "^1.19.4",
+    "ts-node": "^8.5.2",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "@types/nodemailer": "^6.2.2",
+    "@types/nodemailer-direct-transport": "^1.0.31",
+    "@types/nodemailer-smtp-transport": "^2.7.4",
+    "nodemailer": "^6.3.1",
+    "twilio": "^3.37.1"
+  }
+}
