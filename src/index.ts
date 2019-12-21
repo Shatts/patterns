@@ -14,5 +14,3 @@ const emailMessageSender = new EmailMessageSender();
 const emailMessage = new EmailMessage(emailMessageSender);
 emailMessage.send({to: 'kristina.shatts@gmail.com', subject: 'test', message: 'testing...'});*/
 //new AbstractFactoryExample().run(new ComicsGameFactory());
-
-console.log(new ChainExample().run());
