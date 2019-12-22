@@ -21,6 +21,7 @@
     "@types/nodemailer": "^6.2.2",
     "@types/nodemailer-direct-transport": "^1.0.31",
     "@types/nodemailer-smtp-transport": "^2.7.4",
+    "libphonenumber-js": "^1.7.29",
     "nodemailer": "^6.3.1",
     "twilio": "^3.37.1"
   }
